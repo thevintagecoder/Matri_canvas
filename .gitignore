@@ -3,7 +3,7 @@ venv/
 .venv/
 env/
 
-# Mother's artwork files
+# Artwork files
 artworks/
 
 # Python cache files
