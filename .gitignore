@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Mother's artwork files
+artworks/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# VS Code settings, optional
+.vscode/
